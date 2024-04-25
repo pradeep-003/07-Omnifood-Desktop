@@ -68,6 +68,9 @@ html {
   /* 10px/16px = 0.625 = 62.5%  */
   font-size: 62.5%;
   /* percentage of user's browser font-size setting */
+
+  /* Doesn't work on safari */
+  /* scroll-behavior: smooth; */
 }
 body {
   font-family: "Rubik", sans-serif;
